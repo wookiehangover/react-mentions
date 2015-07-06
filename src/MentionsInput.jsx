@@ -132,8 +132,6 @@ module.exports = React.createClass({
 
     var style = {
       display: "block",
-      position: "absolute",
-      top: 0,
       boxSizing: "border-box",
       background: "transparent",
       font: "inherit"
